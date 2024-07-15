@@ -554,22 +554,6 @@ video {
   --tw-contain-style:  ;
 }
 
-.cursor-wait {
-  cursor: wait;
-}
-
-.cursor-move {
-  cursor: move;
-}
-
-.cursor-not-allowed {
-  cursor: not-allowed;
-}
-
-.cursor-progress {
-  cursor: progress;
-}
-
 .cursor-grabbing {
   cursor: grabbing;
 }
@@ -586,10 +570,6 @@ video {
 .text-4xl {
   font-size: 2.25rem;
   line-height: 2.5rem;
-}
-
-.font-medium {
-  font-weight: 500;
 }
 
 .text-black {
